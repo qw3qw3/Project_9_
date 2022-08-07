@@ -6,8 +6,8 @@
   
 Я научился :
 
--  св-ам display; position; flex
+-  @meta тегам
 
-[Макет сайта](https://www.figma.com/file/4ewoagAdJzqrEDgmVMUEyc/Haus?node-id=0%3A1)
+[Макет сайта](https://www.figma.com/file/FvBk8qlnnK2TTXv1He46sj/Grow-Up-Sells?node-id=0%3A1)
 
-***На сайте отстутсвует адаптив.***
+
